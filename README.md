@@ -1,0 +1,1 @@
+# probstat-titik-panas-3TIB-k10

@@ -1,8 +1,14 @@
 # Analisis Titik Panas Indonesia: El Niño 2023 vs Non-El Niño (2021–2025)
 Projek Statistika dan Probabilitas – Kelompok 10, 3TI B, Politeknik Caltex Riau
  
+## Dosen Pengampu
+Mona Elviyenti, S.Si., M.Si.
+
 ## Anggota
-- Nama (NIM)  ... (isi semua anggota)
+- Fathur Rizky Assani (2455301068)
+- Joy Agave (2455301086)
+- M. Iqbal Najuan Viskhal (2455301092)
+- Marcel Ariyanto (2455301104)
  
 ## Sumber data
 NASA FIRMS – VIIRS S-NPP Collection 2, area Indonesia, 2021-01-01 s.d. 2025-12-31
